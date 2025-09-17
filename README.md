@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 - I like playing different games such as the Portal and Half-Life series, I also like the Kirby games. Feel free to ask about more
 - I like coding in Python and HTML
 
-https://cyclical-atrophy.carrd.co
+https://apathyosis.carrd.co
